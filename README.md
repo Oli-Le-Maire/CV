@@ -15,25 +15,10 @@ _______________________________________________________________
 
 | Project Name | Description | Technologies used | Timeframe |
 | ------------ | ----------- | ----------------- | --------- |
-| London Mock Exchange | An interactive investment simulation web app, based on actual historical readings from the FTSE 100 | React, JavaScript, Python/Django, Travis CI, Heroku | 2 weeks |
-| MakersBnB | A web app based on the premise of AirBnB | Ruby, CSS, HTML, RSpec, Sinatra | 2 weeks |
-| Bank Account Project | A solo project based on creating a bank account for a user. The project was designed to ensure that code followed good convention in terms of code quality, testing, readability, as well as plentiful and well written commits | Ruby, RSpec, Sinatra | 4 days |
+| London Mock Exchange: [Front End,](https://github.com/Oli-Le-Maire/london-mock-exchange-frontend) [Back End](https://github.com/Oli-Le-Maire/london-mock-exchange-backend) | An interactive investment simulation web app, based on actual historical readings from the FTSE 100 | React, JavaScript, Python/Django, Travis CI, Heroku | 2 weeks |
+| [MakersBnB](https://github.com/Oli-Le-Maire/makersbnb/tree/main/makersbnb) | A web app based on the premise of AirBnB | Ruby, CSS, HTML, RSpec, Sinatra | 2 weeks |
+| [Bank Account Project](https://github.com/Oli-Le-Maire/bank-challenge) | A solo project based on creating a bank account for a user. The project was designed to ensure that code followed good convention in terms of code quality, testing, readability, as well as plentiful and well written commits | Ruby, RSpec, Sinatra | 4 days |
 
-
-
-
-_______________________________________________________________
-# Education
-
-**Makers Academy – Coding bootcamp (September 2020 – December 2020)**
-Languages: Ruby, JavaScript, HTML/CSS, Python
-Web Frameworks: Ruby on Rails, React, Django, Sinatra
-Databases: PostgreSQL
-Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Jest, Cypress
-CI/CD: Travis CI, Heroku
-
-**Southampton Solent University (2006 – 2009)**
-Music Production (B.A Hons.)
 
 _______________________________________________________________
 # Skills
@@ -92,3 +77,17 @@ February 2011 – March 2012
 - Contacting contractors referred to company in order to on board onto company payroll, along with responding to any queries and providing quotes
 - Ensuring clients were updated with news of sign ups
 - Sourcing new business by way of organising sales meetings with potential new clients
+
+
+_______________________________________________________________
+# Education
+
+**Makers Academy – Coding bootcamp (September 2020 – December 2020)**
+Languages: Ruby, JavaScript, HTML/CSS, Python
+Web Frameworks: Ruby on Rails, React, Django, Sinatra
+Databases: PostgreSQL
+Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Jest, Cypress
+CI/CD: Travis CI, Heroku
+
+**Southampton Solent University (2006 – 2009)**
+Music Production (B.A Hons.)
