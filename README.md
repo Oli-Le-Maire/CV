@@ -15,7 +15,7 @@ _______________________________________________________________
 
 | Project Name | Description | Technologies used | Timeframe |
 | ------------ | ----------- | ----------------- | --------- |
-| London Mock Exchange: [Front End,](https://github.com/Oli-Le-Maire/london-mock-exchange-frontend) [Back End](https://github.com/Oli-Le-Maire/london-mock-exchange-backend) | An interactive investment simulation web app, based on actual historical readings from the FTSE 100 | React, JavaScript, Python/Django, Travis CI, Heroku | 2 weeks |
+| London Mock Exchange: [Video Presentation](https://www.youtube.com/watch?v=cOixbsYbarc&feature=youtu.be) [Front End,](https://github.com/Oli-Le-Maire/london-mock-exchange-frontend) [Back End](https://github.com/Oli-Le-Maire/london-mock-exchange-backend) | An interactive investment simulation web app, based on actual historical readings from the FTSE 100 | React, JavaScript, Python/Django, Travis CI, Heroku | 2 weeks |
 | [MakersBnB](https://github.com/Oli-Le-Maire/makersbnb/tree/main/makersbnb) | A web app based on the premise of AirBnB | Ruby, CSS, HTML, RSpec, Sinatra | 2 weeks |
 | [Bank Account Project](https://github.com/Oli-Le-Maire/bank-challenge) | A solo project based on creating a bank account for a user. The project was designed to ensure that code followed good convention in terms of code quality, testing, readability, as well as plentiful and well written commits | Ruby, RSpec, Sinatra | 4 days |
 
