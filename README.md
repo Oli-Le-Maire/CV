@@ -1,23 +1,39 @@
-# Oli Le Maire CV #
+# Oli Le Maire
 _______________________________________________________________
 
-# Background
+# Personal Profile
 
-I am a Makers alumnus, and am currently looking to acquire my first role in Junior Software Development. During my time as a Compliance Manager, I gained a wealth of office knowledge, including team management, auditing, experience with large database creation (excel), client and customer negotiation, the ability to diffuse issues and disagreements, and a passion for creating simplicity from complex systems and situations. I am naturally creative, composed, measured and consistent, all attributes that I feel would fit well into the development industry.
-
+A creative, analytical and quality driven individual with a passion for user friendly systems and functionality. An ex Compliance Manager who has taken the bold step in changing career to feed an ever growing passion for coding which began whilst in previous professional roles whilst working with Excel spreadsheets. This was due to the attention to detail required, the functionality provided, and although I didn't know that there was a link to coding at the time, an interest which included hidden tabs doing the heavy lifting in the background (backend type tabs), and user friendly user interface tabs (front end type tabs). My fondness for
+functionality has been explored further at the Makers Academy coding bootcamp where I have consistently been tasked with transforming client-like requests into fully functioning web-apps, whilst at the same time ensuring that my keenness for user friendliness has been utilised through a variety of front-end exposures. It is this symbiotic dynamic that drives my passion for coding, along with an all-round love for learning.
 _______________________________________________________________
-# Motivation
+# Tech Skills
 
-When given the opportunity to create interactive database spreadsheets during my previous career, I relished the opportunity to design these with a strong sense of user friendliness, complete with aesthetically pleasing ‘user interface’ tabs, whilst hidden tabs including the formulas for the interface tabs, performed the heavy lifting in the background. Looking back, I realise how similar these principles were to the world of coding. After several months, I decided to take the plunge and sign myself up for the Makers Academy course. Coding aligns with my love of learning languages, creativity, functionality, and order. All of which fuels my passion and confirms for me that coding is a great fit for my strengths and personality.  
+Python, HTML, CSS, JavaScript, Ruby, Django, React, Ruby on Rails, Sinatra, PostgreSQL, TDD, BDD, MVP, MVC, OOP
+_______________________________________________________________
+# Education
+
+**Makers Academy**: *September 2020 – December 2020*
+
+- Learned or improved existing tech skills mentioned above in the Tech Skills section of the CV
+- Experienced extensive teamwork principles such as daily pair programming, daily standups, and agile methodology, both in team projects (3 different
+team projects in 5 weeks) as well as daily pair programming
+- Learned to effectively debug almost anything, and know when to seek assistance
+- Utilised conventional coding principles such as Planning and Diagramming, Single Responsibility Principle, Encapsulation, Code Quality, TDD,
+Readability, as well as plentiful and well written commits
+- Created multiple web apps using various languages, testing suites, and servers, as well as user input and database creation
+
+**Southampton Solent University**: *2006 - 2009*  
+
+Music Production (B.A Hons.)
 _______________________________________________________________
 # Projects
 
 
-| Project Name | Description | Technologies used | Timeframe |
-| ------------ | ----------- | ----------------- | --------- |
-| London Mock Exchange: [Video Presentation](https://www.youtube.com/watch?v=cOixbsYbarc&feature=youtu.be) [Front End,](https://github.com/Oli-Le-Maire/london-mock-exchange-frontend) [Back End](https://github.com/Oli-Le-Maire/london-mock-exchange-backend) | An interactive investment simulation web app, based on actual historical readings from the FTSE 100 | React, JavaScript, Python/Django, Travis CI, Heroku | 2 weeks |
-| [MakersBnB](https://github.com/Oli-Le-Maire/makersbnb/tree/main/makersbnb) | A web app based on the premise of AirBnB | Ruby, CSS, HTML, RSpec, Sinatra | 2 weeks |
-| [Bank Account Project](https://github.com/Oli-Le-Maire/bank-challenge) | A solo project based on creating a bank account for a user. The project was designed to ensure that code followed good convention in terms of code quality, testing, readability, as well as plentiful and well written commits | Ruby, RSpec, Sinatra | 4 days |
+| Project Name | Description | Technologies used |
+| ------------ | ----------- | ----------------- |
+| London Mock Exchange: [Video Presentation, ](https://www.youtube.com/watch?v=cOixbsYbarc&feature=youtu.be) [Front End,](https://github.com/Oli-Le-Maire/london-mock-exchange-frontend) [Back End](https://github.com/Oli-Le-Maire/london-mock-exchange-backend) | An interactive investment simulation web app, based on actual historical readings from the FTSE 100 | React, JavaScript, Python/Django, Travis CI, Heroku |
+| [MakersBnB](https://github.com/Oli-Le-Maire/makersbnb/tree/main/makersbnb) | A web app based on the premise of AirBnB | Ruby, CSS, HTML, RSpec, Sinatra |
+| [Bank Account Project](https://github.com/Oli-Le-Maire/bank-challenge) | A solo project based on creating a bank account for a user. The project was designed to ensure that code followed good convention in terms of code quality, testing, readability, as well as plentiful and well written commits | Ruby, RSpec, Sinatra |
 
 
 _______________________________________________________________
@@ -41,33 +57,27 @@ _______________________________________________________________
 Compliance Manager
 June 2017 – August 2020
 
-- Designing a new contractor database system replacing the old partly paper based system
-- Reviewing contractor and client contracts, signing off requested changes and helping to create company branded contracts
-- Responsible for managing the Compliance Department to ensure that all the agency’s international contractors are compliant as either an employee, a freelancer, or as a personal service company
+- Leading transformation of paper based contractor database system to a new comprehensive compliant digital system – This resulted in improving
+operational efficiency by at least 50% while minimising cost
+- Managing the Compliance Team – responsible for setting KPIs, holding regular reviews, and providing one on one training
 - Training all new recruitment consultants on the relevant compliance for the country that they operated in
-- Defusing delicate and/or difficult situations between varying parties
 
 
 **6 CATS International Ltd, London**
 Compliance Coordinator
 September 2014 – May 2017
 
-- Sourcing accountancy partners in various EU countries that are able to provide compliant contractor registrations
-- Documenting procedures for the correct registering of contractors in their respective country of work
-- Monitoring and reporting any significant updates of progress or concerns regarding contractors’ compliance to clients throughout the duration of contractors’ contracts
-- Liaising with clients and contractors in order to resolve any administrative difficulties, disagreements or contract disputes
-- Maintaining relationships with existing local accountancy partners in order to continue to provide an expert service to clients and contractors
+- Monitoring and reporting any significant updates of progress or concerns regarding contractors’ compliance to clients throughout the duration of
+contractors’ contracts via a comprehensive Excel database
+- Liaising with clients and contractors in order to resolve disagreements and/or contract disputes
 
 
 **CXC Global (Europe) Ltd, London**
 Senior Payroll Administrator
 April 2012 – August 2014
 
-- Ensuring incoming payments are matched accurately to corresponding client invoices
-- Performing the administrative tasks necessary to ensure timely and accurate payments to contractors
-- Liaising with clients in order to resolve any invoice discrepancies
-- Working with the company accountant to create failsafe systems to ensure accurate payments and no loss of company money
-- Solely creating and delivering international training programme for company’s outsourced payroll and accounts team in India
+- Working with company accountants creating failsafe systems to ensure consistent accurate payments
+- Solely creating and delivering international training programme for company’s payroll and accounts team in India
 
 
 **CXC Global (Europe) Ltd, London**
@@ -75,19 +85,6 @@ Account Executive
 February 2011 – March 2012
 
 - Contacting contractors referred to company in order to on board onto company payroll, along with responding to any queries and providing quotes
-- Ensuring clients were updated with news of sign ups
-- Sourcing new business by way of organising sales meetings with potential new clients
 
 
 _______________________________________________________________
-# Education
-
-**Makers Academy – Coding bootcamp (September 2020 – December 2020)**
-Languages: Ruby, JavaScript, HTML/CSS, Python
-Web Frameworks: Ruby on Rails, React, Django, Sinatra
-Databases: PostgreSQL
-Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Jest, Cypress
-CI/CD: Travis CI, Heroku
-
-**Southampton Solent University (2006 – 2009)**
-Music Production (B.A Hons.)
